@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NanoDegreeP8</string>
+    <string name="title">News Title</string>
+    <string name="date">Date</string>
+    <string name="date_detail">xx/xx/xxxx</string>
+    <string name="section">Section</string>
+    <string name="section_detail">section detail</string>
+    <string name="empty">No Results</string>
+    <string name="namehint">Search news</string>
+    <string name="btnProcess">Search</string>
+    <string name="author_detail">author detail</string>
+    <string name="author">author</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NanoDegreeP10</string>
+    <string name="availabletitle">available</string>
+    <string name="sale">sale</string>
+    <string name="nametitle">name</string>
+    <string name="pricetitle">price</string>
+    <string name="namehint">name</string>
+    <string name="price_of_the_product">price</string>
+    <string name="avaialable_quantities_of_the_product">quantity</string>
+    <string name="submit">submit new item</string>
+    <string name="price">price</string>
+    <string name="available">available</string>
+    <string name="quantities_to_be_select">Quantity to be selected:</string>
+    <string name="order_more">order</string>
+    <string name="delete">delete</string>
+    <string name="inventory">Inventory</string>
+    <string name="add_a_new_item">add new item</string>
+    <string name="delete_all_item">DELETE ALL</string>
+    <string name="reload">reload</string>
+    <string name="track">track</string>
+</resources>

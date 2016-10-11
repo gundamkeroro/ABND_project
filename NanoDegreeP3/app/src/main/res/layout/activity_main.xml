@@ -1,0 +1,170 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/small_space"
+            android:text="@string/problem_1"
+            android:textSize="@dimen/size"/>
+
+        <EditText
+            android:id="@+id/p1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint1"
+            android:inputType="text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/small_space"
+            android:text="@string/problem_2"
+            android:textSize="@dimen/size"/>
+
+        <RadioGroup
+            android:id="@+id/p2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/problem2_r1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Washington"
+                android:textSize="@dimen/size" />
+
+            <RadioButton
+                android:id="@+id/problem2_r2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Adams"
+                android:textSize="@dimen/size" />
+
+            <RadioButton
+                android:id="@+id/problem2_r3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Jefferson"
+                android:textSize="@dimen/size" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/small_space"
+            android:text="@string/problem_3"
+            android:textSize="@dimen/size" />
+
+        <RadioGroup
+            android:id="@+id/p3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/problem3_r1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/True"
+                android:textSize="@dimen/size" />
+
+            <RadioButton
+                android:id="@+id/problem3_r2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/False"
+                android:textSize="@dimen/size" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/small_space"
+            android:text="@string/problem_4"
+            android:textSize="@dimen/size" />
+
+        <CheckBox
+            android:id="@+id/problem4_c1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pitcher"
+            android:textSize="@dimen/size"/>
+        <CheckBox
+            android:id="@+id/problem4_c2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/goalkp"
+            android:textSize="@dimen/size"
+            />
+        <CheckBox
+            android:id="@+id/problem4_c3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Quarterback"
+            android:textSize="@dimen/size"/>
+        <CheckBox
+            android:id="@+id/problem4_c4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/runBack"
+            android:textSize="@dimen/size"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/small_space"
+            android:text="@string/problem_5"
+            android:textSize="@dimen/size" />
+
+        <RadioGroup
+            android:id="@+id/p5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/problem5_r1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/True"
+                android:textSize="@dimen/size" />
+
+            <RadioButton
+                android:id="@+id/problem5_r2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/False"
+                android:textSize="@dimen/size" />
+        </RadioGroup>
+
+
+        <Button
+            android:id="@+id/result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:text="@string/show_result" />
+        <Button
+            android:id="@+id/reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:text="@string/reset" />
+
+
+    </LinearLayout>
+</ScrollView>

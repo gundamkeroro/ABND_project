@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NanoDegreeP2</string>
+    <string name="Home_team">Home Team</string>
+    <string name="Away_team">Away Team</string>
+    <string name="goal">GOAL</string>
+    <string name="foul">FOUL</string>
+</resources>

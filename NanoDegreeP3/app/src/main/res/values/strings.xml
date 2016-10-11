@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NanoDegreeP3</string>
+    <string name="problem_1">1. What equation describes the behavior of a quantum particle?</string>
+    <string name="hint1">Write your answer here.</string>
+    <string name="answer1">Schrodinger Equation</string>
+    <string name="problem_2">2. Who is the first president of the US?</string>
+    <string name="Washington">George Washington</string>
+    <string name="Adams">John Adams</string>
+    <string name="Jefferson">Thomas Jefferson</string>
+    <string name="show_result">Show result</string>
+    <string name="problem_3">3. The gender of child is decided by his/her mother.</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="problem_4">4. Which of the following is a position in American football?</string>
+    <string name="Quarterback">Quarter back</string>
+    <string name="reset">reset</string>
+    <string name="problem_5">5. Light travels faster than sound.</string>
+    <string name="goalkp">Goal keeper</string>
+    <string name="pitcher">Pitcher</string>
+    <string name="runBack">Running back</string>
+</resources>

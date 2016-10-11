@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NanoDegreeP7</string>
+    <string name="namehint">Book name</string>
+    <string name="btnProcess">Search</string>
+    <string name="authorshead">Author</string>
+    <string name="titlehead">Title</string>
+    <string name="loading">Loading Now</string>
+    <string name="no_result">No Results Found</string>
+    <string name="good">Good connection</string>
+    <string name="bad">No connection</string>
+</resources>

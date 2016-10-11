@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">NanoDegreeP6</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ActivityHeader">HEader</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Search for a place</string>
+
+    <!--Shopping-->
+    <string name="shopping1Name">University Mall</string>
+    <string name="shopping2Name">Oasis world market</string>
+    <string name="shopping3Name">Kroger food market</string>
+        <string name="shopping1Desc">
+            Address: 801 University City Blvd, Blacksburg, VA
+        </string>
+        <string name="shopping2Desc">
+            Address: 1411 S Main St, Blacksburg, VA
+        </string>
+        <string name="shopping3Desc">
+            Address: 1322 S Main St, Blacksburg, VA
+        </string>
+
+    <!--Restaurant-->
+    <string name="restaurant1Name">Mekong cafe</string>
+    <string name="restaurant2Name">Starbucks</string>
+    <string name="restaurant3Name">Subway</string>
+        <string name="restaurant1Desc">
+            Address: 1405 S Main St, Blacksburg, VA
+        </string>
+        <string name="restaurant2Desc">
+            Address: 880 University City Blvd, Blacksburg, VA
+        </string>
+        <string name="restaurant3Desc">
+            Address:  Burke Johnston Student Center, Blacksburg, VA
+        </string>
+
+
+    <!--Attractions-->
+    <string name="attractions1Name">Duck Pond</string>
+    <string name="attractions2Name">Down town</string>
+    <string name="attractions3Name">Lane Stadium</string>
+        <string name="attractions1Desc">
+            Address: Duck Pond Dr, Blacksburg, VA
+        </string>
+        <string name="attractions2Desc">
+            Address: 149 College Ave, Blacksburg, VA
+        </string>
+        <string name="attractions3Desc">
+            Address: 185 Beamer Way, Blacksburg, VA
+        </string>
+
+
+    <!--Recreation-->
+    <string name="recreation1Name">War Memorial Hall</string>
+    <string name="recreation2Name">iMAX</string>
+    <string name="recreation3Name">Newman Library</string>
+        <string name="recreation1Desc">
+            Address: 370 Drillfield Drive, Blacksburg, VA
+        </string>
+        <string name="recreation2Desc">
+            Address: 1614 S Main St, Blacksburg, VA
+        </string>
+        <string name="recreation3Desc">
+            Address: 560 Drillfield Dr, Blacksburg, VA
+        </string>
+    <string name="Attractions">Attractions</string>
+    <string name="Shopping_salls">Shopping Malls</string>
+    <string name="recreations">Recreations</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="name">locationName</string>
+    <string name="desc">locationDesc</string>
+    <string name="lon">locationLON</string>
+    <string name="lat">locationLAT</string>
+    <string name="icon">locationIcon</string>
+
+
+</resources>
